@@ -49,7 +49,7 @@
                             <div class="col">
                                 <form class="d-flex">
                                     <input class="form-control me-2" type="search" placeholder="Từ khóa..." aria-label="Từ khóa...">
-                                    <button class="btn btn-outline-success" type="submit"><i class="fas fa-search"></i>Tìm kiếm</button>
+                                    <button class="btn btn-outline-success" type="submit">Tìm kiếm</button>
                                 </form>
                             </div>
                         </div>
@@ -72,18 +72,17 @@
                         <th scope="col">Người ký</th>
                         <th scope="col">Trạng thái</th>
                         <th scope="col">Tập tin</th>
-
-                    </tr>
+                   </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <th scope="row">1</th>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Cong vien nuoc</td>
+                        <td>2019</td>
+                        <td>Giai Trí</td>
+                        <td>Khao sat</td>
+                        <td>Cong ty TNHH T3H</td>
+                        <td>cong ty T3H</td>
                         <td></td>
                         <td></td>
                         <td></td>
